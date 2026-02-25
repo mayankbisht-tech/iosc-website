@@ -24,7 +24,7 @@ import ISHANGUPTA from "@/assets/team/leads/Ishan Gupta.jpg";
 import ARYANSACHAN from "@/assets/team/i3/Aryan Sachan.jpg";
 import KARANBHATT from "@/assets/team/i3/KARAN BHATT.jpg";
 import RAHULBHATIA from "@/assets/team/i3/Rahul Bhatia.jpeg";
-import MAYANKBISHT from '@/assets/team/i3/Mayank Bisht.jpg';
+import MAYANKBISHT from '@/assets/team/i3/Mayank Bisht.jpeg';
 import PAWANYADAV from '@/assets/team/i3/Pawan Yadav.jpg';
 import DHRUVSHARMA from '@/assets/team/i3/DHRUV SHARMA.jpg';
 import VASUTOHANGAR from "@/assets/team/i3/Vasu Tohangar.jpg";

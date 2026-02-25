@@ -45,10 +45,10 @@ export default function Home() {
   }
    const event = {
     id: "===",
-    title: "MENTORSHIP PROGRAM",
+    title: "AI SESSION",
     description:
-      "Mentorship program organised by IOSC EDC Club",
-    date: "Sept 10, 2025 • Offline",
+      "AI session organised by IOSC EDC Club",
+    date: "Feb 28, 2026 • Online • 5 PM",
     ctaUrl: "/mentorshipRegistrations",
     // image: EVENTPHOTO,
     neverShowAgainDays: 30,
@@ -71,3 +71,4 @@ export default function Home() {
     </>
   );
 }
+
